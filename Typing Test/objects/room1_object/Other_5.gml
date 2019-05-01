@@ -1,0 +1,1 @@
+global.accuracyAverage = 0;
